@@ -17,6 +17,7 @@ package minhaclasse;
 /**
  *
  * @author Felipe
+ 
  */
 public class MinhaClasse {
 
@@ -47,6 +48,7 @@ package minhaclasse;
 /**
  *
  * @author Felipe
+ 
  */
 public class Ssi {
 
